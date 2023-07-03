@@ -1,9 +1,5 @@
-##Power BI projekt
-
-1. hlavní tabulka - tabulka dostuspnosti potravin na základě průměrných příjmů.
-- ze zdrojových dat czechia_price byla vypočítána průměrná cena potravin za celý rok. Cela byla v rámci všech regionů ČR způrměrována.
-- Pro každé odvětví byla ze zdrojové tabulky czechia_payroll vypočítán průměr roční mzdy pro každé odvětví. 
-- data baly srovnávána mezi roky 2006 a 2018
-
-2. sekundární tabulka - tabulka s HDP, GIni a datech evropských států
-- v tabulce jsou data za stejné období jako v primární tabulce
+## Power BI
+Při řešení jsem chtěl zpracovávat jiná témata. Využil jsem tabulku heltcare_provider a pomocné tabulky czechia_region a czechia_district.
+Při řešení jsem se chtěl zabývat informacemi o možnosti zubařské péče v ČR. K identifikaci těchto zařízení byl využit sloupec specialization_care.  
+Na prvním listu je jednotlivý přehled zubařské péče.
+Na druhém listu je přehled interaktivní přehled. 
